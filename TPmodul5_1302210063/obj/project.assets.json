@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\asus\\Documents\\DATA KULIAH\\SEMESTER 4 RPL\\TP\\PBO\\TPmodul5_1302210063\\TPmodul5_1302210063\\TPmodul5_1302210063.csproj",
+      "projectUniqueName": "C:\\Users\\asus\\Documents\\DATA KULIAH\\SEMESTER 4 RPL\\TP\\KPL\\TPmodul5_1302210063\\TPmodul5_1302210063\\TPmodul5_1302210063.csproj",
       "projectName": "TPmodul5_1302210063",
-      "projectPath": "C:\\Users\\asus\\Documents\\DATA KULIAH\\SEMESTER 4 RPL\\TP\\PBO\\TPmodul5_1302210063\\TPmodul5_1302210063\\TPmodul5_1302210063.csproj",
+      "projectPath": "C:\\Users\\asus\\Documents\\DATA KULIAH\\SEMESTER 4 RPL\\TP\\KPL\\TPmodul5_1302210063\\TPmodul5_1302210063\\TPmodul5_1302210063.csproj",
       "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\asus\\Documents\\DATA KULIAH\\SEMESTER 4 RPL\\TP\\PBO\\TPmodul5_1302210063\\TPmodul5_1302210063\\obj\\",
+      "outputPath": "C:\\Users\\asus\\Documents\\DATA KULIAH\\SEMESTER 4 RPL\\TP\\KPL\\TPmodul5_1302210063\\TPmodul5_1302210063\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
